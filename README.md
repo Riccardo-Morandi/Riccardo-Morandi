@@ -11,6 +11,7 @@ My studies are focused on Statistics, Machine and Deep Learning and Mathematics.
 - [Monitoring drugs-based therapeutic paths in heart failure patients](https://github.com/Riccardo-Morandi/HeartFailure)
 
 :loudspeaker: **Contacts:**
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/riccardo-morandi-a5760733b)
 - `riccardo.s.morandi@gmail.com`
 - `riccardo3.morandi@mail.polimi.it`
 
